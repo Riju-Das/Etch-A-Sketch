@@ -10,7 +10,7 @@ gridchild.setAttribute("class","gridchild")
 // grid.style.width="30px"
 // grid.style.height="30px"
 let a;
-let totalsize=700;
+let totalsize=660;
 
 function creategrid(){
     grid.style.width= `${totalsize/a}px`
